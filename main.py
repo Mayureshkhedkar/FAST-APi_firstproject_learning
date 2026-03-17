@@ -1,4 +1,6 @@
-#myenv\Scripts\Activate.ps1   run the command in terminal to activate the virtual environment
+#first git push
+# 
+# myenv\Scripts\Activate.ps1   run the command in terminal to activate the virtual environment
 
 from fastapi import FastAPI
 from models import Products
